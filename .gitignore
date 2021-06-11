@@ -1,5 +1,4 @@
 # Adding csv files
-movies_metadata.csv
 ratings.csv
 config.py
 Movies_ETL.ipynb
